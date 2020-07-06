@@ -24,3 +24,7 @@ The scripts directory contains the Python Jupyter Notebook Scripts that execute 
 ### Models
 
 The data we used has been "pickled". This is useful for reproducing our results, but not useful in improving feature extraction from the initial data.
+
+## Future Work
+
+Let's add improvements here
